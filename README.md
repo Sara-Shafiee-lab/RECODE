@@ -73,11 +73,11 @@ Published work in the [Sara Shafiee Lab](https://github.com/Sara-Shafiee-lab) on
 
 Ongoing work in RECODE. Code will be released here as the papers are published.
 
-| Repository | Maintainer | Status |
+| Ongoing work | Repository | Status |
 |---|---|---|
-| [**CPJudgeBenchPlus**](https://github.com/Nastaran95/CPJudgeBenchPlus) | [@Nastaran95](https://github.com/Nastaran95) | 🔒 Released upon publication |
-| [**meta-eval-for-code**](https://github.com/Nastaran95/meta-eval-for-code) | [@Nastaran95](https://github.com/Nastaran95) | 🔒 Released upon publication |
-| [**SmartBIM-Agent**](https://github.com/Nastaran95/SmartBIM-Agent) | [@Nastaran95](https://github.com/Nastaran95) | 🔒 Released upon publication |
+| Advancing reliable evaluation of AI-generated constraint models | [CPJudgeBenchPlus](https://github.com/Nastaran95/CPJudgeBenchPlus) | 🔒 Released upon publication |
+| Understanding how AI is used to evaluate code | [meta-eval-for-code](https://github.com/Nastaran95/meta-eval-for-code) | 🔒 Released upon publication |
+| AI agents for analysing building information models | [SmartBIM-Agent](https://github.com/Nastaran95/SmartBIM-Agent) | 🔒 Released upon publication |
 
 ## 🌍 Sustainable Development Goals
 
