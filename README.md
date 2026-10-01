@@ -93,7 +93,6 @@ RECODE is funded under the DFF **Inge Lehmann Programme**, a research talent pro
 
 - [DTU Orbit project record](https://orbit.dtu.dk/en/projects/independent-research-fund-denmark-dff-project-recode-revolutioniz/)
 - [DTU news: DFF grants to four DTU researchers (Dec 2023)](https://www.dtu.dk/english/newsarchive/2023/12/dff-grants-to-four-dtu-researchers)
-- [DFF news: 28 researchers receive grants under the Inge Lehmann Programme](https://dff.dk/aktuelt/nyheder/stotte-til-forskning-28-forskere-modtager-knap-80-mio-kr-under-inge-lehmann-programmet) (Danish)
 - [Scopus grant record](https://www.scopus.com/awardedGrantDetails.uri?id=448073015&authorId=56492736800)
 
 ## 📦 This repository
