@@ -59,6 +59,16 @@ RECODE develops **deep learning methods** and **advanced recommendation systems*
 - 🎯 Recommendation systems for design decision support
 - 📐 Optimal product design
 
+## 🔗 Related research in the lab
+
+Published work in the [Sara Shafiee Lab](https://github.com/Sara-Shafiee-lab) on AI for engineering design and manufacturing, with open code:
+
+| Paper | Venue | Code |
+|---|---|---|
+| CPJudgeBench: Meta-Evaluation of LLM Judges for Constraint Programming through Solution-Space Semantics | EMNLP 2026 (Main) | [CPJudgeBench](https://github.com/Nastaran95/CPJudgeBench) |
+| Evaluating Agentic AI Systems in Manufacturing: A Review of Taxonomy, Challenges and Future Directions | AAIML 2026 | [manufacturing-agentic-evaluation](https://github.com/Nastaran95/manufacturing-agentic-evaluation) |
+| Agentic Data Analysis for Intelligent Manufacturing: Benchmark-Driven Evaluation of Agentic vs. Direct LLM Approaches | CIRPe 2025 | [agentic-man-da](https://github.com/Nastaran95/agentic-man-da) |
+
 ## 🔒 Coming soon
 
 Ongoing work in RECODE. Code will be released here as the papers are published.
@@ -78,13 +88,6 @@ The project contributes to:
 ## 🏅 About the funding
 
 RECODE is funded under the DFF **Inge Lehmann Programme**, a research talent programme that strengthens talent development in Danish research and promotes a more equal gender balance in research environments. In the 2023 round, 28 researchers were awarded grants out of 178 applicants.
-
-## 🔗 Related research in the lab
-
-Work in the [Sara Shafiee Lab](https://github.com/Sara-Shafiee-lab) on AI for engineering design and manufacturing, with code:
-- [CPJudgeBench](https://github.com/Nastaran95/CPJudgeBench): LLM judges for constraint programming models (EMNLP 2026)
-- [agentic-man-da](https://github.com/Nastaran95/agentic-man-da): agentic data analysis for manufacturing (CIRPe 2025)
-- [manufacturing-agentic-evaluation](https://github.com/Nastaran95/manufacturing-agentic-evaluation): evaluating agentic AI systems in manufacturing (AAIML 2026)
 
 ## 📰 Press & official records
 
