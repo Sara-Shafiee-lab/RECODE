@@ -79,15 +79,6 @@ The project contributes to:
 
 RECODE is funded under the DFF **Inge Lehmann Programme**, a research talent programme that strengthens talent development in Danish research and promotes a more equal gender balance in research environments. In the 2023 round, 28 researchers were awarded grants out of 178 applicants.
 
-## 📚 Foundations: prior work by the PI
-
-RECODE builds on the PI's long-standing research on product configuration and engineer-to-order companies, including:
-- *The costs and benefits of product configuration projects in engineer-to-order companies*
-- *How to analyze and quantify similarities between configured engineer to order products by comparing the highlighted features utilizing the configuration system abilities*
-- *Framing business cases for the success of product configuration system projects*
-
-Full publication list: [DTU Orbit](https://orbit.dtu.dk/en/persons/sara-shafiee/) · [Google Scholar](https://scholar.google.com/citations?user=LjqT4OEAAAAJ&hl=en)
-
 ## 🔗 Related research in the lab
 
 Work in the [Sara Shafiee Lab](https://github.com/Sara-Shafiee-lab) on AI for engineering design and manufacturing, with code:
