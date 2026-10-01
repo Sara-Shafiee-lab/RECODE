@@ -18,7 +18,7 @@
 | | |
 |---|---|
 | **Full title** | RECODE: Revolutionizing Engineer-To-Order Companies through Deep Learning and Advanced Recommendation Systems for Optimal Product Design |
-| **Principal Investigator** | [Sara Shafiee](https://github.com/sara-shaf), Senior Researcher |
+| **Principal Investigator** | [Sara Shafiee](https://github.com/sara-shaf), Senior Researcher / Associate Professor |
 | **Host institution** | Technical University of Denmark (DTU), Department of Civil and Mechanical Engineering, Section of Engineering Design and Manufacturing Systems |
 | **Research group** | [Sara Shafiee Lab](https://github.com/Sara-Shafiee-lab) |
 | **Funder** | Independent Research Fund Denmark (Danmarks Frie Forskningsfond, DFF) |
