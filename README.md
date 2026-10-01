@@ -59,6 +59,16 @@ RECODE develops **deep learning methods** and **advanced recommendation systems*
 - 🎯 Recommendation systems for design decision support
 - 📐 Optimal product design
 
+## 🔒 Coming soon
+
+Ongoing work in RECODE. Code will be released here as the papers are published.
+
+| Repository | Maintainer | Status |
+|---|---|---|
+| [**CPJudgeBenchPlus**](https://github.com/Nastaran95/CPJudgeBenchPlus) | [@Nastaran95](https://github.com/Nastaran95) | 🔒 Released upon publication |
+| [**meta-eval-for-code**](https://github.com/Nastaran95/meta-eval-for-code) | [@Nastaran95](https://github.com/Nastaran95) | 🔒 Released upon publication |
+| [**SmartBIM-Agent**](https://github.com/Nastaran95/SmartBIM-Agent) | [@Nastaran95](https://github.com/Nastaran95) | 🔒 Released upon publication |
+
 ## 🌍 Sustainable Development Goals
 
 The project contributes to:
@@ -84,13 +94,6 @@ Work in the [Sara Shafiee Lab](https://github.com/Sara-Shafiee-lab) on AI for en
 - [CPJudgeBench](https://github.com/Nastaran95/CPJudgeBench): LLM judges for constraint programming models (EMNLP 2026)
 - [agentic-man-da](https://github.com/Nastaran95/agentic-man-da): agentic data analysis for manufacturing (CIRPe 2025)
 - [manufacturing-agentic-evaluation](https://github.com/Nastaran95/manufacturing-agentic-evaluation): evaluating agentic AI systems in manufacturing (AAIML 2026)
-
-## 🔒 Coming soon
-
-Code for the following ongoing work will be released upon publication:
-- [CPJudgeBenchPlus](https://github.com/Nastaran95/CPJudgeBenchPlus)
-- [meta-eval-for-code](https://github.com/Nastaran95/meta-eval-for-code)
-- [SmartBIM-Agent](https://github.com/Nastaran95/SmartBIM-Agent)
 
 ## 📰 Press & official records
 
