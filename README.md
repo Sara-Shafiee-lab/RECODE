@@ -88,7 +88,6 @@ Work in the [Sara Shafiee Lab](https://github.com/Sara-Shafiee-lab) on AI for en
 ## 🔒 Coming soon
 
 Code for the following ongoing work will be released upon publication:
-- [DFF-RECODE](https://github.com/Nastaran95/DFF-RECODE)
 - [CPJudgeBenchPlus](https://github.com/Nastaran95/CPJudgeBenchPlus)
 - [meta-eval-for-code](https://github.com/Nastaran95/meta-eval-for-code)
 - [SmartBIM-Agent](https://github.com/Nastaran95/SmartBIM-Agent)
