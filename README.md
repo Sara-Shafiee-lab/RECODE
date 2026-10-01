@@ -28,6 +28,13 @@
 | **Project period** | June 2024 – September 2027 |
 | **Status** | Active |
 
+## 👥 Team
+
+| Name | Role | GitHub |
+|---|---|---|
+| **Sara Shafiee** | Principal Investigator | [@sara-shaf](https://github.com/sara-shaf) |
+| **Nastaran Moradzadeh Farid** | PhD student | [@Nastaran95](https://github.com/Nastaran95) |
+
 ## 🎯 The challenge
 
 Engineer-to-order (ETO) companies design and build products to each customer's specific requirements, so every order involves new engineering work. This makes product design knowledge-intensive and time-consuming, and much of the valuable knowledge from earlier projects is hard to find and reuse.
