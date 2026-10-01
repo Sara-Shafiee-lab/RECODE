@@ -30,10 +30,17 @@
 
 ## 👥 Team
 
-| Name | Role | GitHub |
+| Name | Role | Profiles |
 |---|---|---|
-| **Sara Shafiee** | Principal Investigator | [@sara-shaf](https://github.com/sara-shaf) |
-| **Nastaran Moradzadeh Farid** | PhD student | [@Nastaran95](https://github.com/Nastaran95) |
+| **Sara Shafiee** | Principal Investigator | [GitHub](https://github.com/sara-shaf) · [DTU Orbit](https://orbit.dtu.dk/en/persons/sara-shafiee/) · [ORCID](https://orcid.org/0000-0001-9433-5060) |
+| **Nastaran Moradzadeh Farid** | PhD student | [GitHub](https://github.com/Nastaran95) · [DTU Orbit](https://orbit.dtu.dk/en/persons/nastaran-moradzadeh-farid/) · [ORCID](https://orcid.org/0009-0003-4618-6832) |
+
+### 🎓 PhD project
+
+**[Advanced Recommendation Systems for Optimal Product Design](https://orbit.dtu.dk/en/projects/advanced-recommendation-systems-for-optimal-product-design/)** (August 2024 – July 2027)
+- **PhD student:** Nastaran Moradzadeh Farid
+- **Main supervisor:** Sara Shafiee
+- **Supervisors:** Hans Nørgaard Hansen, Murat Külahci, Alireza Taghizadeh
 
 ## 🎯 The challenge
 
