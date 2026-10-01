@@ -85,6 +85,14 @@ Work in the [Sara Shafiee Lab](https://github.com/Sara-Shafiee-lab) on AI for en
 - [agentic-man-da](https://github.com/Nastaran95/agentic-man-da): agentic data analysis for manufacturing (CIRPe 2025)
 - [manufacturing-agentic-evaluation](https://github.com/Nastaran95/manufacturing-agentic-evaluation): evaluating agentic AI systems in manufacturing (AAIML 2026)
 
+## 🔒 Coming soon
+
+Code for the following ongoing work will be released upon publication:
+- [DFF-RECODE](https://github.com/Nastaran95/DFF-RECODE)
+- [CPJudgeBenchPlus](https://github.com/Nastaran95/CPJudgeBenchPlus)
+- [meta-eval-for-code](https://github.com/Nastaran95/meta-eval-for-code)
+- [SmartBIM-Agent](https://github.com/Nastaran95/SmartBIM-Agent)
+
 ## 📰 Press & official records
 
 - [DTU Orbit project record](https://orbit.dtu.dk/en/projects/independent-research-fund-denmark-dff-project-recode-revolutioniz/)
