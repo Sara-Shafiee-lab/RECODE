@@ -40,7 +40,8 @@
 **[Advanced Recommendation Systems for Optimal Product Design](https://orbit.dtu.dk/en/projects/advanced-recommendation-systems-for-optimal-product-design/)** (August 2024 – July 2027)
 - **PhD student:** Nastaran Moradzadeh Farid
 - **Main supervisor:** Sara Shafiee
-- **Supervisors:** Hans Nørgaard Hansen, Murat Külahci, Alireza Taghizadeh ([@alitaghub](https://github.com/alitaghub))
+- **Main co-supervisor:** Alireza Taghizadeh ([@alitaghub](https://github.com/alitaghub))
+- **Co-supervisors:** Hans Nørgaard Hansen, Murat Külahci
 
 ## 🎯 The challenge
 
