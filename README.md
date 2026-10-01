@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/recode-banner.png" alt="RECODE: from past engineering designs, through deep learning, to recommended components for optimal product design" width="100%"/></p>
+<p align="center"><a href="#"><img src="assets/recode-banner.png" alt="RECODE: from past engineering designs, through deep learning, to recommended components for optimal product design" width="100%"/></a></p>
 
 <h1 align="center">RECODE</h1>
 
