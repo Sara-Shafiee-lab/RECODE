@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Inge%20Lehmann%20Programme-8b5cf6?style=flat-square" alt="Inge Lehmann Programme"/>
   <a href="https://www.dtu.dk"><img src="https://img.shields.io/badge/DTU-990000?style=flat-square" alt="DTU"/></a>
   <img src="https://img.shields.io/badge/Status%3A%20Active%202024%E2%80%932027-22c55e?style=flat-square" alt="Status: Active 2024–2027"/>
+  <a href="https://doi.org/10.46540/3163-00006B"><img src="https://img.shields.io/badge/DOI-10.46540%2F3163--00006B-1f6feb?style=flat-square" alt="DOI 10.46540/3163-00006B"/></a>
 </p>
 
 ---
@@ -26,6 +27,7 @@
 | **Funder** | Independent Research Fund Denmark (Danmarks Frie Forskningsfond, DFF) |
 | **Programme** | Inge Lehmann Programme, 2023 call |
 | **Grant** | DKK 3,153,203 |
+| **Grant DOI** | [10.46540/3163-00006B](https://doi.org/10.46540/3163-00006B) |
 | **Awarded** | Announced December 2023 · award date 1 January 2024 |
 | **Project period** | June 2024 – September 2027 |
 | **Status** | Active |
@@ -91,6 +93,7 @@ RECODE is funded under the DFF **Inge Lehmann Programme**, a research talent pro
 
 ## 📰 Press & official records
 
+- [Grant DOI: 10.46540/3163-00006B](https://doi.org/10.46540/3163-00006B)
 - [DTU Orbit project record](https://orbit.dtu.dk/en/projects/independent-research-fund-denmark-dff-project-recode-revolutioniz/)
 - [DTU news: DFF grants to four DTU researchers (Dec 2023)](https://www.dtu.dk/english/newsarchive/2023/12/dff-grants-to-four-dtu-researchers)
 - [Scopus grant record](https://www.scopus.com/authid/detail.uri?authorId=56492736800#tab=grants)
