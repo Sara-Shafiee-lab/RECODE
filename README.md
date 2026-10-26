@@ -69,8 +69,8 @@ Published work in the [Sara Shafiee Lab](https://github.com/Sara-Shafiee-lab) on
 |---|---|---|
 | 🆕 [LLM-Based Agentic AI in Manufacturing: A Scoping Review of Applications, System Designs and Evaluation Practices](https://www.preprints.org/manuscript/202610.2479) | Preprints.org 2026 (preprint) | — |
 | CPJudgeBench: Meta-Evaluation of LLM Judges for Constraint Programming through Solution-Space Semantics | EMNLP 2026 (Main) | [CPJudgeBench](https://github.com/Nastaran95/CPJudgeBench) |
-| Evaluating Agentic AI Systems in Manufacturing: A Review of Taxonomy, Challenges and Future Directions | AAIML 2026 | [manufacturing-agentic-evaluation](https://github.com/Nastaran95/manufacturing-agentic-evaluation) |
-| Agentic Data Analysis for Intelligent Manufacturing: Benchmark-Driven Evaluation of Agentic vs. Direct LLM Approaches | CIRPe 2025 | [agentic-man-da](https://github.com/Nastaran95/agentic-man-da) |
+| [Evaluating Agentic AI Systems in Manufacturing: A Review of Taxonomy, Challenges and Future Directions](https://doi.org/10.1109/AAIML67890.2026.11498174) | AAIML 2026 | [manufacturing-agentic-evaluation](https://github.com/Nastaran95/manufacturing-agentic-evaluation) |
+| [Agentic Data Analysis for Intelligent Manufacturing: Benchmark-Driven Evaluation of Agentic vs. Direct LLM Approaches](https://doi.org/10.1016/j.procir.2025.09.043) | CIRPe 2025 | [agentic-man-da](https://github.com/Nastaran95/agentic-man-da) |
 
 ## 🔒 Coming soon
 
